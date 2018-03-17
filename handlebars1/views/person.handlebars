@@ -1,0 +1,14 @@
+person.handlebars
+<br><br>
+
+{{#if can_drive}}
+	<p>you can drive</p>
+{{else}}
+	<p>you can't drive</p>
+{{/if}}
+
+<ul>
+{{#each things_to_do}}
+	<li>{{this}}</li>
+{{/each}}
+</ul>
