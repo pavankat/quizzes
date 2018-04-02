@@ -1,0 +1,15 @@
+<!-- { 
+  people : [ 
+    { name : 'jake', age : 25 }, 
+    
+    { name : 'rich', age : 24 }, 
+    { name : 'mango', age : 22 }, 
+    { name : 'brian', age : 24 } 
+  ] 
+} -->
+
+<h1>Profiles</h1>
+
+{{#each people}}
+  <a href="/person/{{this.name}}/{{this.age}}">{{this.name}}'s profile</a> <br>
+{{/each}}

@@ -1,0 +1,12 @@
+<h1>Create a Food</h1>
+
+<form action="/create-food" method="POST">
+  <input type="text" name="food" value="">
+  
+  <input type="submit" value="create food">
+</form>
+<br><br>
+
+{{#each foods}}
+    {{this.id}} - {{this.food}} <br>
+{{/each}}

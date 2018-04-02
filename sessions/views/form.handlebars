@@ -1,0 +1,13 @@
+<h1>Create a Hobby</h1>
+
+<form action="/create" method="POST">
+  <input type="text" name="hobby" value="">
+  
+  <input type="submit" value="create hobby">
+</form>
+
+<br><br>
+
+{{#each hobbies}}
+    {{this.id}} - {{this.hobby}} <br>
+{{/each}}
