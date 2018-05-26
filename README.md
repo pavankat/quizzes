@@ -2,14 +2,12 @@
 
 Repo for quizzes that I give to students of web development and data analytics
 
-# what to do after a development class
-
-hey guys just got my internet back 
+# what to do after a bootcamp
 
 ```
-steps to take after today, do 1 or more each day
+steps to take after graduation
 
-0. reach out to me about anything -> pavankat@gmail.com
+0. reach out to me about anything -> pavan kat [ a t ] g m a i l
 
 	I'll be there for you, forever - that's a promise.
 
@@ -92,6 +90,8 @@ steps to take after today, do 1 or more each day
 	* hackerrank.com - practice coding problems
 
 	* https://www.pramp.com - schedule mock interviews with other people interviewing
+	
+	* https://interviewing.io/ - schedule mock interviews with devs
 
 	* http://kellymersereau.com/
 		* a student of mine that got a job with this portfolio
